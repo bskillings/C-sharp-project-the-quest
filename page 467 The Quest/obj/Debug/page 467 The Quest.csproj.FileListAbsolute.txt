@@ -1,0 +1,9 @@
+c:\users\becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\bin\Debug\page 467 The Quest.exe.config
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\obj\Debug\page 467 The Quest.csprojResolveAssemblyReference.cache
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\obj\Debug\page_467_The_Quest.Form1.resources
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\obj\Debug\page_467_The_Quest.Properties.Resources.resources
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\obj\Debug\page 467 The Quest.csproj.GenerateResource.Cache
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\bin\Debug\page 467 The Quest.exe
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\bin\Debug\page 467 The Quest.pdb
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\obj\Debug\page 467 The Quest.exe
+C:\Users\Becky\documents\visual studio 2012\Projects\page 467 The Quest\page 467 The Quest\obj\Debug\page 467 The Quest.pdb
